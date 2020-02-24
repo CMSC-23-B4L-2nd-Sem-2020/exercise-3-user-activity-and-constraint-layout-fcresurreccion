@@ -3,4 +3,5 @@
     <string name="name">Name</string>
     <string name="done">Done</string>
     <string name="retry">Retry</string>
+    <string name="moves_0">Moves: 0</string>
 </resources>
